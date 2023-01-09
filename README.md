@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/olivertylor3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olivertylor3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chhotu-shaw-3224a4206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chhotu-shaw-3224a4206/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chhotu-shaw-3224a4206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chhotu-shaw-3224a4206/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/chhotu.eth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chhotu.eth/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chhotu24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chhotu24" height="30" width="40" /></a>
 </p>
